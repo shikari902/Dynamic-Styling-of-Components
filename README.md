@@ -1,5 +1,5 @@
 # Dynamic-Styling-of-Components
-![image](https://github.com/shikari902/Dynamic-Styling-of-Components/assets/121078997/87a8f3aa-4f52-4860-93d3-146cf8d3c5ad)\
+![image](https://github.com/shikari902/Dynamic-Styling-of-Components/assets/121078997/87a8f3aa-4f52-4860-93d3-146cf8d3c5ad)
 
 This project is developed with "Create React App" bootstrapping.
 
