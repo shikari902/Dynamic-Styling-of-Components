@@ -3,8 +3,10 @@
 
 This project is developed with "Create React App" bootstrapping.
 
-How to run this project
+## How to run this project
+
 Using command prompt go to the project directory, and use command
 
-npm start
+### npm start
+
 It will run the app in the development mode. and will open http://localhost:3000 to view it in your browser.
